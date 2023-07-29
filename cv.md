@@ -1,5 +1,5 @@
-###**Sasha Zakharanka**
-<image src="/photo.jpg"  width="200" alt="200"/>
+### **Sasha Zakharanka**
+<image src="./photo.jpg"  width="200" alt="200"/>
 
 ------
 ###### **Contakt information**

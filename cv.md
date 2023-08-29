@@ -9,7 +9,7 @@
 * Discord: SashaZakharanka
 ------
 ###### **briefly About Myself**
-Education: Belarusion State Academy of Musc. I have extensive experience working with children of all ages. Instruments: guitar (classical, acoustic, ukulele, domra, piano).
+Education: Belarusion State Academy of Musc. I have extensive experience working with children of all ages. Instruments: guitar (classical, acoustic) ukulele, domra, piano.
 I like learning new things as a hobby: photography, filming and editing,confectionery. Now I study programming and English. I want to completely change my profession.
 
 --------

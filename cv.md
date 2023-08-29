@@ -20,5 +20,3 @@ I like learning new things as a hobby: photography, filming and editing,confecti
 -----
 ###### **English**
 Level A1. I have a language practice at home, communicating with my hasband in English
-
-
